@@ -1,6 +1,6 @@
 # GRIT
 Measuring Human Perseverance ( GRIT Index ) 
-You can take our survey at (BIT)[!http://berkeleyindex.com/survey]
+You can take our survey at [BIT](http://berkeleyindex.com/survey)
 
 # Usage Guidelines
 - Navigate to `\webapp`.
